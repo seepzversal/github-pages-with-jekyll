@@ -1,9 +1,9 @@
-title: Welcome!
-author: Seep Maini
+title: Welcome to the blog!
+author: seepzversal
 email: seepzversal@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi welcome to my blog on GitHub....
-
+theme: minima
 # social links
 twitter_username: seepzversal # DO NOT include the @ character, or else the build will fail!
 github_username:  seepzversal # DO NOT include the @ character, or else the build will fail!
