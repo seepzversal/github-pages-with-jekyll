@@ -1,1 +1,2 @@
 title: Welcome!
+theme: minima
